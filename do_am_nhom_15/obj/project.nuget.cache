@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vI4wCcBKjQeamvfQpXsPIhm39hDEuLeZ4Ly1EaEscuzQUsJF5mDsUXxJvb8FjYKGsoHuKB0UEDOTYevTSDArg==",
+  "success": true,
+  "projectFilePath": "/run/media/noname/DATA/do_an/do_am_nhom_15/do_am_nhom_15/do_am_nhom_15.csproj",
+  "expectedPackageFiles": [
+    "/home/noname/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
