@@ -58,3 +58,4 @@ D:/do_an/do_am_nhom_15/do_am_nhom_15/obj/Debug/net8.0/ref/do_am_nhom_15.dll
 /run/media/noname/DATA/do_an/do_am_nhom_15/do_am_nhom_15/obj/Debug/net8.0/do_am_nhom_15.pdb
 /run/media/noname/DATA/do_an/do_am_nhom_15/do_am_nhom_15/obj/Debug/net8.0/do_am_nhom_15.genruntimeconfig.cache
 /run/media/noname/DATA/do_an/do_am_nhom_15/do_am_nhom_15/obj/Debug/net8.0/ref/do_am_nhom_15.dll
+/run/media/noname/DATA/do_an/do_am_nhom_15/do_am_nhom_15/obj/Debug/net8.0/do_am_nhom_15.sourcelink.json
